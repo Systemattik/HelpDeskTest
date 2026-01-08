@@ -1,4 +1,4 @@
 Architecture diagrams for the project.
 
 
-<img width="561" height="61" alt="current-architecture" src="https://github.com/user-attachments/assets/76a44210-865f-4606-8c4e-3c485c29af23" />
+<img width="276" height="401" alt="Current Implementation" src="https://github.com/user-attachments/assets/d2166ae1-111e-4106-b54c-8f738845eb31" />
