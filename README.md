@@ -40,7 +40,7 @@ The following components are fully deployed and operational:
   - Planned persistence layer using Table Storage (schema defined)
 
 ### Current Architecture
-![Current Architecture](architecture/current-architecture.png)
+![Current Architecture](architecture/Current-Architecture.png)
 
 This implementation represents the minimum viable cloud footprint while remaining within zero-cost constraints.
 
@@ -62,7 +62,7 @@ To enable full ticket automation, a serverless backend was designed but not depl
   - Logging, metrics, and alerting
 
 ### Planned Architecture
-![Planned Architecture](architecture/planned-architecture.png)
+![Planned Architecture](architecture/Planned-Architecture.png)
 
 ### Planned Workflow
 
